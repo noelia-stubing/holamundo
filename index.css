@@ -1,3 +1,9 @@
 .hola {
     font-family: 'Courier New', Courier, monospace;
 }
+
+p {
+    color: red;
+    font-size: large;
+    text-align: center;
+}
